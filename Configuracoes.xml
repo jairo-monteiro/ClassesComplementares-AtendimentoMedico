@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<members>
+  <!--Conexão com Banco de Dados-->
+  <servidor>NLvJnk55KQ2x//VCyAlQOA==</servidor>
+  <banco>NLvJnk55KQ2x//VCyAlQOA==</banco>
+  <usuario>qFNSynpOvEQ=</usuario>
+  <senha>nqg6ikOPgYdZ3uXRWJu7qw==</senha>
+
+  <!--Informações do Projeto-->
+  <pastaProjeto>D:\Projetos\Sabesp\SIA</pastaProjeto>
+  <nomeProjeto>SIA</nomeProjeto>
+</members>
